@@ -1,0 +1,23 @@
+/* 
+    Document   : my
+    Created on : Feb 16, 2014, 12:21:27 PM
+    Author     : utsav
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+
+.icon-img{
+    width: 20px;
+    height: 20px;
+}
+
